@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="280" viewBox="0 0 360 280" fill="none">
+ <g stroke="#f5f5f4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M29 251q146 6 307-2M109 210q-12 18 0 36l177-1q-12-17-1-36l-176 1Z"/>
+  <path d="M110 175q-12 17 0 35l171-1q-10-17 0-34l-171 0ZM115 140q-12 17 0 34l172 1q-12-17 0-34l-172-1ZM120 106q-13 16-1 33l172 2q-11-17 0-33l-171-2Z"/>
+  <path d="M112 210l18-2m147 4 36 4-2 28-24 1m-6-69 28 3-2 29-27 1m7-68 27 2-2 28-26 3m4-65 29 3-1 26-29 2M288 219l19 1m-20 7 20 1m-20 7h19m-25-51 23 2m-23 5 22 2m-22 6 22 1m-15-50 20 1m-20 6 20 1m-20 6 19 1m-14-47 19 1m-20 6 20 1m-20 5 20 1" stroke-width="1.7"/>
+  <path d="m50 250-4-59 42-1-7 60m-23-60-10-51q-2-8 3-10 6-2 8 6l12 53m-7-46-13 2m18 44 5-62 9 1-4 61m-5-62 6-14 3 15M55 150l9-1m-4 97 16-14m-18 4 19-17m-20 6 15-13m-16 0 16-12"/>
+  <path d="m302 97 4-21m12 26 14-17m-5 32 21-1m-249-23-9-18m23 6 2-21" stroke-width="4"/>
+ </g>
+ <g fill="#f5f5f4" font-family="Arial,sans-serif" font-style="italic" font-size="13" text-anchor="middle" letter-spacing="1">
+  <text x="190" y="129" transform="rotate(1 190 129)">LINGUAGENS</text><text x="190" y="163">HUMANAS</text><text x="190" y="198">NATUREZA</text><text x="192" y="233">MATEMÁTICA</text>
+ </g>
+</svg>
