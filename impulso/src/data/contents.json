@@ -1,0 +1,526 @@
+[
+  {
+    "id": "um-passo-ja-e-movimento",
+    "type": "phrase",
+    "title": "Um passo já é movimento.",
+    "description": "O próximo passo pode ser pequeno. Ainda assim, ele muda o lugar onde você está.",
+    "category": "superacao",
+    "tags": [
+      "coragem",
+      "persistência"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": true,
+    "readingMinutes": 1,
+    "body": [
+      "O próximo passo pode ser pequeno. Ainda assim, ele muda o lugar onde você está.",
+      "Quando o desafio parece grande demais, tente escolher apenas uma ação possível para hoje. Não precisa resolver tudo de uma vez.",
+      "Pode ser fazer uma pergunta, pedir ajuda ou dedicar alguns minutos àquilo que importa. Reconheça o esforço que cabe no seu momento."
+    ],
+    "prompt": "Qual é o menor passo que você consegue dar hoje?"
+  },
+  {
+    "id": "constancia-e-voltar",
+    "type": "phrase",
+    "title": "Constância também é aprender a voltar.",
+    "description": "Um dia fora do plano não precisa virar uma despedida dos seus objetivos.",
+    "category": "disciplina",
+    "tags": [
+      "rotina",
+      "constância",
+      "hábitos"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": true,
+    "readingMinutes": 1,
+    "body": [
+      "Um dia fora do plano não precisa virar uma despedida dos seus objetivos.",
+      "Rotinas reais têm imprevistos. Em vez de esperar uma semana perfeita, escolha um ponto de retorno: um horário, uma tarefa ou um pequeno ritual.",
+      "Ajustar o plano faz parte de continuar. Uma rotina útil deve considerar descanso, limites e a sua vida como ela é."
+    ],
+    "prompt": "O que pode facilitar o seu próximo retorno?"
+  },
+  {
+    "id": "seu-ritmo-tem-valor",
+    "type": "phrase",
+    "title": "O seu ritmo também tem valor.",
+    "description": "Você pode admirar o caminho de alguém sem diminuir o seu.",
+    "category": "autoconfianca",
+    "tags": [
+      "autoestima",
+      "identidade"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": true,
+    "readingMinutes": 1,
+    "body": [
+      "Você pode admirar o caminho de alguém sem diminuir o seu.",
+      "Comparações raramente mostram o contexto inteiro: oportunidades, dificuldades, tempo e apoio disponíveis.",
+      "Olhe para o que você aprendeu e para as condições que tem agora. Reconhecer seu próprio ponto de partida ajuda a escolher um próximo passo mais justo."
+    ],
+    "prompt": "Que avanço seu merece ser reconhecido?"
+  },
+  {
+    "id": "respira-e-recomeca",
+    "type": "video",
+    "title": "Respira. Você pode recomeçar.",
+    "description": "Uma pausa de 18 segundos para olhar para o agora e escolher um próximo passo possível.",
+    "category": "recomecos",
+    "tags": [
+      "pausa",
+      "mudança",
+      "resiliência"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Vídeo original do Impulso",
+      "url": null
+    },
+    "media": {
+      "kind": "video",
+      "src": "media/respira.mp4",
+      "poster": "media/respira.svg",
+      "captions": "media/respira.vtt",
+      "duration": "0:18"
+    },
+    "status": "published",
+    "featured": true,
+    "readingMinutes": 1,
+    "body": [
+      "Uma pausa simples, sem pressa e sem metas. Assista no seu ritmo.",
+      "Transcrição: Faça uma pausa. Observe onde você está. Relaxe os ombros, se for confortável. Escolha um pequeno próximo passo. Recomeçar também é seguir.",
+      "O vídeo é silencioso e toda a orientação aparece em texto. É um convite de reflexão, não uma técnica ou tratamento de saúde."
+    ],
+    "prompt": "Do que você precisa antes de continuar?"
+  },
+  {
+    "id": "katherine-johnson-curiosidade",
+    "type": "story",
+    "title": "Katherine Johnson: a curiosidade que abriu caminhos.",
+    "description": "Uma trajetória real de estudo e contribuição à exploração espacial, enfrentando barreiras de raça e gênero.",
+    "category": "estudos",
+    "tags": [
+      "aprendizado",
+      "curiosidade",
+      "persistência"
+    ],
+    "author": "Impulso · síntese editorial",
+    "source": {
+      "kind": "external",
+      "label": "NASA — Katherine Johnson",
+      "url": "https://www.nasa.gov/people/katherine-johnson/"
+    },
+    "media": {
+      "kind": "editorial",
+      "headline": "KATHERINE\nJOHNSON."
+    },
+    "status": "published",
+    "featured": true,
+    "readingMinutes": 3,
+    "body": [
+      "Katherine Johnson foi uma matemática norte-americana cujo trabalho de cálculo de trajetórias contribuiu para a exploração espacial. Sua carreira se desenvolveu em um período marcado pela segregação racial e por barreiras impostas às mulheres.",
+      "Em 1962, antes do voo orbital de John Glenn, Johnson verificou os cálculos produzidos por computadores eletrônicos. A biografia publicada pela NASA registra a importância de sua contribuição para a missão.",
+      "Sua história não é uma promessa de que esforço individual resolve todas as desigualdades. É também um lembrete do valor do acesso à educação, do reconhecimento profissional e das oportunidades para desenvolver talentos.",
+      "Para quem está aprendendo, há uma inspiração possível: cultivar perguntas, buscar compreensão e reconhecer que o conhecimento é construído com tempo e colaboração."
+    ],
+    "prompt": "Qual pergunta você gostaria de investigar melhor?"
+  },
+  {
+    "id": "primeiro-passo-objetivo",
+    "type": "video",
+    "title": "Do objetivo ao primeiro passo.",
+    "description": "Em 18 segundos, transforme uma ideia grande em uma ação pequena e concreta.",
+    "category": "objetivos",
+    "tags": [
+      "planejamento",
+      "propósito",
+      "foco"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Vídeo original do Impulso",
+      "url": null
+    },
+    "media": {
+      "kind": "video",
+      "src": "media/passo.mp4",
+      "poster": "media/passo.svg",
+      "captions": "media/passo.vtt",
+      "duration": "0:18"
+    },
+    "status": "published",
+    "featured": true,
+    "readingMinutes": 1,
+    "body": [
+      "Um objetivo pode ficar mais claro quando vira uma ação que você consegue nomear.",
+      "Transcrição: Pense em algo importante. Escolha uma ação possível. Defina quando tentar. Comece pelo que cabe hoje. Um passo já é movimento.",
+      "Não é preciso terminar tudo agora. Ajuste a proposta à sua realidade e ao tempo disponível."
+    ],
+    "prompt": "Qual ação cabe no seu dia de hoje?"
+  },
+  {
+    "id": "duvidas-tambem-ensinam",
+    "type": "phrase",
+    "title": "A dúvida também é um começo.",
+    "description": "Não entender de primeira não apaga sua capacidade de aprender.",
+    "category": "estudos",
+    "tags": [
+      "aprendizado",
+      "curiosidade"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Não entender de primeira não apaga sua capacidade de aprender.",
+      "Tente nomear a parte que ainda não ficou clara. Voltar a um exemplo, mudar a explicação ou conversar com alguém pode ajudar.",
+      "Perguntar não diminui o que você sabe. Abre espaço para o que ainda pode descobrir."
+    ],
+    "prompt": "O que você pode perguntar em vez de guardar como dúvida?"
+  },
+  {
+    "id": "menos-perfeito-mais-possivel",
+    "type": "phrase",
+    "title": "Menos perfeito. Mais possível.",
+    "description": "Um plano que cabe na sua vida tem mais espaço para acontecer.",
+    "category": "objetivos",
+    "tags": [
+      "planejamento",
+      "foco"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Um plano que cabe na sua vida tem mais espaço para acontecer.",
+      "Se a lista parece impossível, experimente reduzir. Escolha o essencial, reserve um tempo realista e deixe margem para imprevistos.",
+      "Mudar uma meta não significa abandonar o que importa. Pode ser uma forma mais cuidadosa de seguir em direção a isso."
+    ],
+    "prompt": "Qual parte do seu plano pode ficar mais simples?"
+  },
+  {
+    "id": "recomecar-nao-e-voltar",
+    "type": "phrase",
+    "title": "Você recomeça com o que aprendeu.",
+    "description": "Um novo começo não apaga a experiência que veio antes.",
+    "category": "recomecos",
+    "tags": [
+      "mudança",
+      "resiliência"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Um novo começo não apaga a experiência que veio antes.",
+      "Talvez você precise trocar o caminho, revisar expectativas ou deixar uma etapa para trás. Isso não torna inútil o que viveu.",
+      "Procure reconhecer o aprendizado que pode levar consigo e o apoio de que precisa para a próxima fase."
+    ],
+    "prompt": "Que aprendizado você quer levar para o seu recomeço?"
+  },
+  {
+    "id": "malala-direito-de-aprender",
+    "type": "story",
+    "title": "Malala: a educação como caminho de mudança.",
+    "description": "A defesa do direito de meninas à educação e a construção de um trabalho coletivo.",
+    "category": "superacao",
+    "tags": [
+      "coragem",
+      "aprendizado",
+      "propósito"
+    ],
+    "author": "Impulso · síntese editorial",
+    "source": {
+      "kind": "external",
+      "label": "Malala Fund — Malala’s story",
+      "url": "https://malala.org/malalas-story"
+    },
+    "media": {
+      "kind": "editorial",
+      "headline": "MALALA\nYOUSAFZAI."
+    },
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 3,
+    "body": [
+      "Malala Yousafzai tornou-se conhecida por defender o direito das meninas à educação no Paquistão. Sua trajetória inclui uma grave violência sofrida em 2012, quando era adolescente, e a continuidade de sua atuação pública após a recuperação.",
+      "Em 2013, Malala e seu pai, Ziauddin Yousafzai, fundaram o Malala Fund. A organização trabalha em defesa da educação de meninas. Em 2014, ela recebeu o Prêmio Nobel da Paz, compartilhado com Kailash Satyarthi.",
+      "A inspiração dessa história não está em exigir coragem extraordinária de todas as pessoas. Está em reconhecer o valor da educação, da rede de apoio e do trabalho coletivo para ampliar direitos.",
+      "O relato é uma síntese editorial baseada na história apresentada pelo Malala Fund. Não é um depoimento concedido ao Impulso."
+    ],
+    "prompt": "Que causa importante para você pode começar com uma conversa?"
+  },
+  {
+    "id": "rotina-com-espaco",
+    "type": "phrase",
+    "title": "Uma rotina boa também tem espaço para viver.",
+    "description": "Descanso não é um prêmio reservado a quem terminou tudo.",
+    "category": "disciplina",
+    "tags": [
+      "rotina",
+      "hábitos",
+      "pausa"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Descanso não é um prêmio reservado a quem terminou tudo.",
+      "Organizar compromissos também pode incluir pausas, refeições e tempo com as pessoas que importam.",
+      "Uma rotina sustentável precisa considerar suas condições e limites. Faça ajustes sem transformar todo dia em uma prova de desempenho."
+    ],
+    "prompt": "Onde cabe uma pausa no seu planejamento?"
+  },
+  {
+    "id": "coragem-em-voz-baixa",
+    "type": "phrase",
+    "title": "A coragem nem sempre faz barulho.",
+    "description": "Às vezes, ela aparece no pedido de ajuda, na pergunta ou na tentativa discreta.",
+    "category": "autoconfianca",
+    "tags": [
+      "coragem",
+      "autoestima"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Às vezes, ela aparece no pedido de ajuda, na pergunta ou na tentativa discreta.",
+      "Você não precisa se sentir totalmente seguro para reconhecer algo que deseja tentar. Também pode escolher esperar e se preparar melhor.",
+      "Cada pessoa conhece limites diferentes. Respeitar os seus pode fazer parte de construir confiança."
+    ],
+    "prompt": "Em que momento você já foi corajoso sem perceber?"
+  },
+  {
+    "id": "foco-um-intervalo",
+    "type": "video",
+    "title": "Uma coisa de cada vez.",
+    "description": "Um lembrete visual de 18 segundos para reduzir a lista e encontrar um ponto de partida.",
+    "category": "disciplina",
+    "tags": [
+      "foco",
+      "hábitos",
+      "constância"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Vídeo original do Impulso",
+      "url": null
+    },
+    "media": {
+      "kind": "video",
+      "src": "media/foco.mp4",
+      "poster": "media/foco.svg",
+      "captions": "media/foco.vtt",
+      "duration": "0:18"
+    },
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Nem tudo precisa disputar sua atenção ao mesmo tempo. Se for possível, escolha uma tarefa para começar.",
+      "Transcrição: Tire um pouco da pressa. Escolha uma tarefa. Separe o que você precisa. Experimente por alguns minutos. Uma coisa de cada vez.",
+      "O vídeo é silencioso e contém orientações em texto. Adapte a proposta às suas necessidades e ao seu ambiente."
+    ],
+    "prompt": "Qual tarefa merece sua atenção agora?"
+  },
+  {
+    "id": "wangari-plantar-mudanca",
+    "type": "story",
+    "title": "Wangari Maathai: plantar uma possibilidade.",
+    "description": "Como o cuidado com o ambiente se conectou à organização comunitária no Quênia.",
+    "category": "objetivos",
+    "tags": [
+      "propósito",
+      "persistência",
+      "mudança"
+    ],
+    "author": "Impulso · síntese editorial",
+    "source": {
+      "kind": "external",
+      "label": "The Nobel Prize — Wangari Maathai, biographical",
+      "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/"
+    },
+    "media": {
+      "kind": "editorial",
+      "headline": "WANGARI\nMAATHAI."
+    },
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 3,
+    "body": [
+      "Wangari Maathai foi uma ambientalista queniana que fundou o Green Belt Movement em 1977. O movimento conectou o plantio de árvores, o cuidado ambiental e a participação de mulheres em comunidades do Quênia.",
+      "Seu trabalho também se relacionou à defesa de direitos e à participação democrática. Em 2004, Maathai recebeu o Prêmio Nobel da Paz.",
+      "Sua trajetória ajuda a perceber como uma ação concreta pode fazer parte de uma transformação coletiva. O plantio de uma árvore se ligava a questões mais amplas de sustento, ambiente e autonomia.",
+      "Este texto é uma síntese editorial da biografia publicada pelo Nobel Prize. Não é um depoimento produzido para o Impulso."
+    ],
+    "prompt": "Que ação pequena pode ser compartilhada com outras pessoas?"
+  },
+  {
+    "id": "aprender-sem-corrida",
+    "type": "phrase",
+    "title": "Aprender não precisa ser uma corrida.",
+    "description": "Entender uma ideia com calma pode valer mais do que passar por muitas sem compreender.",
+    "category": "estudos",
+    "tags": [
+      "foco",
+      "aprendizado"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Entender uma ideia com calma pode valer mais do que passar por muitas sem compreender.",
+      "Escolha um conteúdo, procure um exemplo e tente explicá-lo com suas próprias palavras.",
+      "Se não funcionar hoje, experimente outro recurso ou peça uma nova explicação. Aprender pode exigir caminhos diferentes."
+    ],
+    "prompt": "Que ideia você gostaria de explicar melhor?"
+  },
+  {
+    "id": "nao-precisa-sozinho",
+    "type": "phrase",
+    "title": "Pedir apoio também é seguir em frente.",
+    "description": "Você não precisa carregar todo desafio sem companhia.",
+    "category": "superacao",
+    "tags": [
+      "resiliência",
+      "coragem"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Você não precisa carregar todo desafio sem companhia.",
+      "Compartilhar uma dificuldade com alguém de confiança pode abrir espaço para outras perspectivas e para apoio prático.",
+      "Nem toda situação tem solução simples. Buscar ajuda adequada também pode ser um próximo passo importante."
+    ],
+    "prompt": "Com quem você pode conversar?"
+  },
+  {
+    "id": "mudar-de-rota",
+    "type": "phrase",
+    "title": "Mudar de rota também é escolher um caminho.",
+    "description": "Rever uma decisão pode ser cuidado com quem você é hoje.",
+    "category": "recomecos",
+    "tags": [
+      "mudança",
+      "identidade"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Rever uma decisão pode ser cuidado com quem você é hoje.",
+      "Novas informações, necessidades e possibilidades podem mudar o que faz sentido para você.",
+      "Antes de decidir, dê espaço para avaliar as opções e conversar com quem pode ajudar. Seguir não exige repetir sempre a mesma direção."
+    ],
+    "prompt": "O que faz sentido manter e o que pode mudar?"
+  },
+  {
+    "id": "objetivo-com-sentido",
+    "type": "phrase",
+    "title": "O seu objetivo precisa fazer sentido para você.",
+    "description": "Antes de perguntar quanto falta, vale lembrar por que você quer chegar lá.",
+    "category": "objetivos",
+    "tags": [
+      "propósito",
+      "planejamento"
+    ],
+    "author": "Impulso",
+    "source": {
+      "kind": "original",
+      "label": "Texto original do Impulso",
+      "url": null
+    },
+    "media": null,
+    "status": "published",
+    "featured": false,
+    "readingMinutes": 1,
+    "body": [
+      "Antes de perguntar quanto falta, vale lembrar por que você quer chegar lá.",
+      "Algumas metas continuam fazendo sentido. Outras precisam de revisão. Você pode se permitir avaliar as duas possibilidades.",
+      "Escreva o que importa por trás do objetivo e escolha uma ação que respeite suas condições atuais."
+    ],
+    "prompt": "O que você quer cultivar no caminho, além de chegar ao destino?"
+  }
+]

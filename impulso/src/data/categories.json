@@ -1,0 +1,8 @@
+[
+  { "id": "superacao", "name": "Superação", "description": "Um passo além dos desafios.", "icon": "mountain", "tags": ["coragem", "persistência", "resiliência"] },
+  { "id": "disciplina", "name": "Disciplina", "description": "Pequenas ações, todos os dias.", "icon": "zap", "tags": ["rotina", "constância", "hábitos"] },
+  { "id": "autoconfianca", "name": "Autoconfiança", "description": "Reconheça a força que já é sua.", "icon": "sparkles", "tags": ["coragem", "autoestima", "identidade"] },
+  { "id": "estudos", "name": "Estudos", "description": "Aprender também é avançar.", "icon": "book", "tags": ["aprendizado", "foco", "curiosidade"] },
+  { "id": "objetivos", "name": "Objetivos", "description": "Dê direção ao seu próximo passo.", "icon": "target", "tags": ["planejamento", "propósito", "foco"] },
+  { "id": "recomecos", "name": "Recomeços", "description": "Sempre existe um novo caminho.", "icon": "sunrise", "tags": ["pausa", "mudança", "resiliência"] }
+]
